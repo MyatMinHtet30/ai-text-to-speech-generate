@@ -145,4 +145,6 @@ if st.button("🔊 Generate & Play"):
                 st.error(f"❌ Error: {e}")
 
 # Footer
-st.markdown('<div class="footer">© 2025 AI Text to Speech Project by AK | Kaung Kaung | Kaung Si Thu</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">© 2025 AI Text to Speech Project by AK | Kaung Kaung | Kaung Si Thu | Myat Min Htet</div>', unsafe_allow_html=True)
+
+
